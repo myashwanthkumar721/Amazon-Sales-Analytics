@@ -82,6 +82,23 @@ Amazon-Sales-Analytics/
 
 ---
 
+
+##  Dashboard Preview
+
+### Sales Dashboard
+
+![Dashboard](images/dashboard1.png)
+
+### Revenue Dashboard
+
+![Dashboard](images/dashboard2.png)
+
+### Category Dashboard
+
+![Dashboard](images/dashboard3.png)
+
+---
+
 ##  Author
 
 Yashwanth Kumar M
