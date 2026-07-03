@@ -1,82 +1,87 @@
-# Amazon Sales Analytics
+#  Amazon Sales Analytics
 
-## Project Overview
+An end-to-end Data Analytics project built using Python, SQL, and Power BI to analyze Amazon sales data and generate business insights.
 
-This project analyzes Amazon sales data using
+---
+
+##  Project Overview
+
+This project demonstrates the complete Data Analytics workflow:
+
+- Data Cleaning using Python
+- Data Analysis using SQL
+- Dashboard Development using Power BI
+- Data Visualization
+- Business Insights
+
+---
+
+##  Tools & Technologies
 
 - Python
 - Pandas
 - NumPy
 - SQL (MySQL)
 - Power BI
-
-The dataset was cleaned using Python, analyzed using SQL, and visualized in Power BI.
-
----
-
-## Tools Used
-
-- Python
-- Pandas
-- NumPy
-- MySQL
-- Power BI
-- PyCharm
+- Git
+- GitHub
 
 ---
 
-## Project Workflow
+##  Project Structure
 
-Raw Dataset
-↓
+Amazon-Sales-Analytics/
 
-Python Data Cleaning
+├── data/
 
-↓
+├── output/
 
-Clean CSV
+├── sql/
 
-↓
+├── powerbi/
 
-SQL Analysis
+├── reports/
 
-↓
+├── images/
 
-Power BI Dashboard
+├── cleaning.py
 
----
+├── analysis.py
 
-## KPIs
+├── README.md
 
-- Total Revenue
-- Total Orders
-- Average Order Value
-- Total Quantity Sold
-- Top Categories
-- Top States
-- Monthly Sales
-- Courier Status
-- Fulfilment Analysis
+└── requirements.txt
 
 ---
 
-## Folder Structure
+##  Key Performance Indicators
 
-Amazon-Sales-Analytics
-
-data/
-images/
-output/
-sql/
-reports/
-
-analysis.py
-cleaning.py
-
-README.md
+- Total Orders: 102
+- Total Revenue: ₹63,770.79
+- Average Order Value: ₹625.20
+- Categories: 6
+- States Covered: 1
 
 ---
 
-## Author
+##  Analysis Performed
+
+- Revenue Analysis
+- Category Analysis
+- Order Status Analysis
+- State-wise Sales
+- City-wise Sales
+- Fulfilment Performance
+- Monthly Revenue Trends
+
+---
+
+##  Dashboard Preview
+
+(Add screenshots below)
+
+---
+
+##  Author
 
 Yashwanth Kumar M
