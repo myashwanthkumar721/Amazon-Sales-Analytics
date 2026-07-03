@@ -78,7 +78,6 @@ Amazon-Sales-Analytics/
 
 ##  Dashboard Preview
 
-(Add screenshots below)
 
 ---
 
