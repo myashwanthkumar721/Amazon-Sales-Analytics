@@ -76,11 +76,6 @@ Amazon-Sales-Analytics/
 
 ---
 
-##  Dashboard Preview
-
-
----
-
 
 ##  Dashboard Preview
 
