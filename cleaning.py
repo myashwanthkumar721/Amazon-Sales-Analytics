@@ -184,7 +184,6 @@ print("\nNew Columns:")
 print(df[["Date", "Month","Month Number", "Year", "Day", "Day Name"]].head())
 print(df.columns.tolist())
 
-
 # -----------------------------------------------------
 # Check Duplicate Rows
 # -----------------------------------------------------
